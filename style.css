@@ -1,6 +1,6 @@
 @font-face {
     font-family: poppins;
-    src: url(./ASSESTS/Poppins-Regular.ttf);
+    src: url(./ASSETS/Poppins-Regular.ttf);
 }
 * {
 margin: 0;
@@ -124,7 +124,7 @@ nav{
     width: 80%;
     height: 100%;
     /* background-color: aquamarine; */
-    background-image: url(./ASSESTS/sign-removebg-preview.png);
+    background-image: url(./ASSETS/sign-removebg-preview.png);
     background-position: -48% -40%;
     background-size: contain;
     background-repeat: no-repeat;
@@ -296,7 +296,7 @@ nav{
 .eight{
     width: 2.5vw;
     height: 2.5vw;
-    background-image: url(./ASSESTS/8\ nav.png);
+    background-image: url(./ASSETS/8\ nav.png);
     background-size: cover;
     background-position: center;
     
@@ -349,27 +349,27 @@ nav{
 .em{
     width: 3vw;
     height: 3vw;
-  background-image: url(./ASSESTS/sunflower1.png);
+  background-image: url(./ASSETS/sunflower1.png);
   background-position: center;
   background-size: cover;
   
 
 }
 .emoji3 .em{
-background-image: url(./ASSESTS/daisy.png);
+background-image: url(./ASSETS/daisy.png);
 width: 3.5vw;
 height: 3.5vw;
 }
 .emoji2 .em{
-background-image: url(./ASSESTS/pink.png);
+background-image: url(./ASSETS/pink.png);
 width: 3.5vw;
 height: 3.5vw;
 }
 .emoji5 .em{
-    background-image: url(./ASSESTS/rose-removebg-preview.png);
+    background-image: url(./ASSETS/rose-removebg-preview.png);
 }
 .emoji4 .em{
-    background-image: url(./ASSESTS/pink2.png);
+    background-image: url(./ASSETS/pink2.png);
 }
 #star{
     width: 6vw;
@@ -379,7 +379,7 @@ height: 3.5vw;
     left: 50%;
     top: 35.49%;
     transform: translate(-50%,-50%);
-    background-image: url(./ASSESTS/star.png);
+    background-image: url(./ASSETS/star.png);
     background-position: center;
     background-size: cover;
 
@@ -435,7 +435,7 @@ height: 3.5vw;
     width: 9vw;
     height: 6vw;
     /* background-color: aqua; */
-    background-image: url(./ASSESTS/round_logo.png);
+    background-image: url(./ASSETS/round_logo.png);
     background-position: center;
     background-size: cover;
 }
